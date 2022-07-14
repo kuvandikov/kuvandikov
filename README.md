@@ -17,7 +17,7 @@
 
 
 
-## About me
+## 🙋‍♂️  About me
 
 - 💻 Currently working on very cool projects.
 - ✌🏻 Looking forward to collaborating with other developers.
@@ -42,14 +42,14 @@
 
 
 
-## Programming languages
+## 👨‍💻  Programming languages
 
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Dart-%230077B5?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/C++-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
 
-## GitHub stats
+## :octocat: GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnvarbekKuvandikov&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnvarbekKuvandikov&theme=tokyonight" />&nbsp;
