@@ -51,6 +51,6 @@
 
 ## :octocat: GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnvarbekKuvandikov&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnvarbekKuvandikov&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvarbekKuvandikov&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+<img src="https://github-readme-stats.vercel.app/api?username=kuvandikov&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuvandikov&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuvandikov&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
